@@ -36,7 +36,7 @@
     "@vue/compiler-sfc": "^3.0.0",
     "@vue/component-compiler-utils": "^3.2.0",
     "algoliasearch": "^4.4.0",
-    "babel-jest": "^26.3.0",
+    "babel-jest": "^29.3.0",
     "babel-loader": "^8.1.0",
     "babel-preset-vue": "^2.0.2",
     "cp-cli": "^2.0.0",
